@@ -1,0 +1,28 @@
+{
+  "id": "eff97abb-f967-45f1-b48a-0885b0d1d30c",
+  "name": "Vulgar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please Dont Use Vulgar Terms."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527453133,
+  "fallbackIntent": false,
+  "events": []
+}

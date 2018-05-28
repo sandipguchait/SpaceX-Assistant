@@ -1,0 +1,196 @@
+[
+  {
+    "id": "3ee05cf9-8e5e-4f8e-8441-322b5d055532",
+    "data": [
+      {
+        "text": "falconheavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "c9d03bda-ce8f-45c0-9060-a9f24271a13e",
+    "data": [
+      {
+        "text": "dragon",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "7b5992a6-effd-4f33-9506-26026ae039ea",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "dragon",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "add7303e-ff08-4891-ac49-6ebaccd163bb",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "falconheavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "a33266ed-7c30-4d5b-b983-635179d6f3b9",
+    "data": [
+      {
+        "text": "next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "ffc3a4dd-3509-461f-811e-6b2259912813",
+    "data": [
+      {
+        "text": "When is the next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527453435
+  },
+  {
+    "id": "8ec763d1-a98d-47e9-8057-edf673d1a51c",
+    "data": [
+      {
+        "text": "whats the next launch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527453435
+  },
+  {
+    "id": "669ee9ce-122a-4e65-bc1d-6cda8184af92",
+    "data": [
+      {
+        "text": "Next launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "30d73795-d1d7-4738-8139-a5248ae66d4f",
+    "data": [
+      {
+        "text": "Next ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "6143255e-09fa-4171-87e4-4c2f2f31cda0",
+    "data": [
+      {
+        "text": "When does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " take off again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527453435
+  },
+  {
+    "id": "d4eb2665-f863-481b-9462-c9764f7be0b1",
+    "data": [
+      {
+        "text": "When is the next ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": " launch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522613749
+  }
+]

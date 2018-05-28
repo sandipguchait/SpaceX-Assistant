@@ -1,0 +1,44 @@
+{
+  "id": "c931f1c5-9865-402c-8d03-c6b9e3a60a9f",
+  "name": "company-valuation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "company-valuation",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "contact spacex"
+            },
+            {
+              "title": "jobs spacex"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SpaceX recently raised from $100 million to $21.5 billion. So now SpaceX is worth of $21.5 Billion"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527504713,
+  "fallbackIntent": false,
+  "events": []
+}

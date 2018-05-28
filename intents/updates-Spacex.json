@@ -1,0 +1,37 @@
+{
+  "id": "47b16e0b-2a60-44bf-a1e4-b86975cd034c",
+  "name": "updates-Spacex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eef2e096-e94d-4920-bba2-3c29ffd426c4",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To read all the latest updates on SpaceX visit Here: http://www.spacex.com/news"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527501696,
+  "fallbackIntent": false,
+  "events": []
+}

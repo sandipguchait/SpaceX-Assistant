@@ -1,0 +1,44 @@
+{
+  "id": "096c7b96-dc2b-4992-9da8-1a5146f232c9",
+  "name": "Rocket-height-Diameter-Width-Dragon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "194aefb3-411e-4294-834f-f62475c3bee4",
+          "required": false,
+          "dataType": "@rocket-property",
+          "name": "rocket-property",
+          "value": "$rocket-property",
+          "isList": false
+        },
+        {
+          "id": "44ac4078-d416-4549-bc62-29b7f3ac37a8",
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. The Dragon Has A Diameter Of 3.7m12 ft                                                          \n2. SpaceX\u0027s Dragon weighs about 6,000kg13,228 lbs                                                       \n3. The Dragon has a height of 7.2m23.6 ft"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527429068,
+  "fallbackIntent": false,
+  "events": []
+}

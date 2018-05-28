@@ -1,0 +1,43 @@
+{
+  "id": "a990bb35-b9a7-4ff0-b6f5-c805c99944fc",
+  "name": "contact-spaceX",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "founder of spacex"
+            },
+            {
+              "title": "jobs on spacex"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SPACEX HEADQUARTERS\nRocket Road\nHawthorne, California\n310-363-6000                                                                                                                \n                                                                                                                                         \n SPACEX WASHINGTON D.C.\n1030 15th Street N.W.\nSuite 220E\nWashington, DC 20005-1503                                                                                                                                              \n                                                                                                                                           \n                                                                                                                                           \nMEDIA INQUIRIES\nmedia@spacex.com\nSALES INQUIRIES\nsales@spacex.com"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527504829,
+  "fallbackIntent": false,
+  "events": []
+}

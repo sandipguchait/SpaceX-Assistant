@@ -1,0 +1,86 @@
+[
+  {
+    "id": "599c2657-97cd-4da2-bb9e-ead09fb40cd1",
+    "data": [
+      {
+        "text": "diameter",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falconheavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527427338
+  },
+  {
+    "id": "1d7bb589-ce78-4960-80b2-b7f8dbf0addc",
+    "data": [
+      {
+        "text": "weight",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon heavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527427066
+  },
+  {
+    "id": "32791591-7c2c-4b10-b494-e6003f8f593f",
+    "data": [
+      {
+        "text": "height",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falconheavy",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527427338
+  }
+]

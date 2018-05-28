@@ -1,0 +1,88 @@
+[
+  {
+    "id": "798d2ca6-bdde-4ed7-8294-6ffad451fcaa",
+    "data": [
+      {
+        "text": "its very nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  },
+  {
+    "id": "e01eb351-154c-4930-8628-c2ae65339d59",
+    "data": [
+      {
+        "text": "nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  },
+  {
+    "id": "6dbc838c-1b88-4b78-9910-a811c4802af0",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  },
+  {
+    "id": "0b3a2801-0f8d-43a9-aa25-b9d293eee524",
+    "data": [
+      {
+        "text": "its ",
+        "userDefined": false
+      },
+      {
+        "text": "great",
+        "alias": "Thanks-Greeting",
+        "meta": "@Thanks-Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  },
+  {
+    "id": "d2401d62-a01e-43b2-888b-441202fb9436",
+    "data": [
+      {
+        "text": "thats ",
+        "userDefined": false
+      },
+      {
+        "text": "awesome",
+        "alias": "Thanks-Greeting",
+        "meta": "@Thanks-Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  },
+  {
+    "id": "249519f2-6a8c-4147-8151-240d62c5ac3b",
+    "data": [
+      {
+        "text": "wow",
+        "alias": "Thanks-Greeting",
+        "meta": "@Thanks-Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527497763
+  }
+]

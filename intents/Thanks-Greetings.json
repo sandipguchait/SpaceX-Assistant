@@ -1,0 +1,36 @@
+{
+  "id": "f137bc60-c175-4f5c-a3f5-ecd967c6c757",
+  "name": "Thanks-Greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca67e046-d0f6-41ca-b8ba-55f3b1530ed3",
+          "dataType": "@Thanks-Greeting",
+          "name": "Thanks-Greeting",
+          "value": "$Thanks-Greeting",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank You."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527497763,
+  "fallbackIntent": false,
+  "events": []
+}

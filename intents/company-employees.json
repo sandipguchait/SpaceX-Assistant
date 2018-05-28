@@ -1,0 +1,46 @@
+{
+  "id": "bd98cea7-1457-4fd6-8526-666db1be067e",
+  "name": "company-employees",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "company-employees",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Company valuation"
+            },
+            {
+              "title": "What is SpaceX?"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Currently, there Are Over More than 7000 Employees"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "facebook": false,
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527504307,
+  "fallbackIntent": false,
+  "events": []
+}

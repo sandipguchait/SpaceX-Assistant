@@ -1,0 +1,28 @@
+{
+  "id": "a3445502-c6b0-4e39-85df-d15af6d69be4",
+  "name": "jobs-Spacex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you want to work for SpaceX: Kindly visit the Careers to see our Job Openings from here: http://www.spacex.com/careers"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527454462,
+  "fallbackIntent": false,
+  "events": []
+}

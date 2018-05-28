@@ -1,0 +1,31 @@
+{
+  "id": "7899fab4-a976-4029-a0e3-9f583da057f6",
+  "name": "rockets-names",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Currently there are 3 Rockets:  The Falcon9 , The Falcon Heavy and the Dragon",
+            "The Falcon9 , The Falcon Heavy and the Dragon"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527453501,
+  "fallbackIntent": false,
+  "events": []
+}

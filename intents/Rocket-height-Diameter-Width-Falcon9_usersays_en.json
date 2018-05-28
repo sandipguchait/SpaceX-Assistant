@@ -1,0 +1,82 @@
+[
+  {
+    "id": "556374d9-a149-4c49-937c-2d340a85cfc0",
+    "data": [
+      {
+        "text": "height",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527426935
+  },
+  {
+    "id": "3dfb5ff8-478f-41de-afcd-bc9ab0910e3b",
+    "data": [
+      {
+        "text": "width",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon 9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527426935
+  },
+  {
+    "id": "e8673160-8f48-4d57-a408-740e3f4db827",
+    "data": [
+      {
+        "text": "diameter",
+        "alias": "rocket-property",
+        "meta": "@rocket-property",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "falcon9",
+        "alias": "spacex-rocket",
+        "meta": "@spacex-rocket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527426935
+  }
+]

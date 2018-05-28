@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2662b3de-3a39-436e-bbec-b57e57108815",
+    "data": [
+      {
+        "text": "how you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527502301
+  },
+  {
+    "id": "3cde4734-e353-4dc2-bc85-e0e4cb0123fe",
+    "data": [
+      {
+        "text": "how can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527502301
+  },
+  {
+    "id": "bcc477ef-9817-4468-8ac4-14af2e27e6d6",
+    "data": [
+      {
+        "text": "what you can do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527502301
+  },
+  {
+    "id": "613b3311-2ee8-45cf-9ecc-e97a779945a3",
+    "data": [
+      {
+        "text": "what you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527502301
+  },
+  {
+    "id": "c37a7de0-5e3b-4175-ba1d-5e70d10ea8da",
+    "data": [
+      {
+        "text": "can you do for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527502301
+  },
+  {
+    "id": "5aa9d12d-97c1-4173-8fbf-e64a791e803b",
+    "data": [
+      {
+        "text": "what can you do for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527502301
+  }
+]

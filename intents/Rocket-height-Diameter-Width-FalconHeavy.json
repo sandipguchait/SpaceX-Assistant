@@ -1,0 +1,45 @@
+{
+  "id": "aeae4a3d-a0a3-407b-a66d-60383ee7ceaa",
+  "name": "Rocket-height-Diameter-Width-FalconHeavy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "95043920-75f1-4d1d-8595-8b06b4f271c2",
+          "required": false,
+          "dataType": "@rocket-property",
+          "name": "rocket-property",
+          "value": "$rocket-property",
+          "isList": false
+        },
+        {
+          "id": "5d96202e-9891-4f6d-82f9-87156b157374",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. The Falconheavy Has A Diameter Of 12.2m39.9 ft                                                                \n2. SpaceX\u0027s Falconheavy weighs about 1,420,788kg3,125,735 lb                                       \n3. The Falconheavy has a height of 70m229.6 ft"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427338,
+  "fallbackIntent": false,
+  "events": []
+}

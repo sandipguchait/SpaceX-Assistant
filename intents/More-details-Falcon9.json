@@ -1,0 +1,37 @@
+{
+  "id": "1321e616-868a-425b-914f-c5e61dbe0668",
+  "name": "More-details-Falcon9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0186d912-fd02-40e0-a3e1-85e67b213cbf",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To Know More details on Our Falcon9 Visit here: http://www.spacelaunchreport.com/falcon9.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527499303,
+  "fallbackIntent": false,
+  "events": []
+}

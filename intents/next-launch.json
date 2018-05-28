@@ -1,0 +1,46 @@
+{
+  "id": "fa0a99b7-3510-4996-adaf-9c79a18fb6cb",
+  "name": "next-launch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "next-launch",
+      "affectedContexts": [
+        {
+          "name": "next-launch-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7287e877-3aa4-4359-a611-572a897f4cda",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The next launch is on 2018-05-31"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527453435,
+  "fallbackIntent": false,
+  "events": []
+}

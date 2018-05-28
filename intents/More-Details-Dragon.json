@@ -1,0 +1,37 @@
+{
+  "id": "67685396-1eff-4832-8415-e82c2da7f81b",
+  "name": "More-Details-Dragon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bfa71b03-edec-4a1a-828c-cb64e80ec050",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To Know More details on Our Dragon Visit here: https://www.space.com/26188-spacex-dragon-v2-manned-spacecraft-infographic.html"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527499244,
+  "fallbackIntent": false,
+  "events": []
+}

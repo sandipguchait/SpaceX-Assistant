@@ -1,0 +1,28 @@
+{
+  "id": "5de91040-fe2f-4d8a-a350-cc642c073e80",
+  "name": "what-can-u-do-SpaceX",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am SpaceX Assistant. I am here to to give you all information you need on SpaceX"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527502301,
+  "fallbackIntent": false,
+  "events": []
+}

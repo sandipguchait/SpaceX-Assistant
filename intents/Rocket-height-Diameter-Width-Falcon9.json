@@ -1,0 +1,45 @@
+{
+  "id": "7e30c4ff-ffe8-4fd9-9453-7f8174e78623",
+  "name": "Rocket-height-Diameter-Width-Falcon9",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "077af77f-24b4-4a9f-8a76-020d24908d58",
+          "required": false,
+          "dataType": "@rocket-property",
+          "name": "rocket-property",
+          "value": "$rocket-property",
+          "isList": false
+        },
+        {
+          "id": "f83dcd08-266b-4cdf-8147-8a43e1573c81",
+          "required": false,
+          "dataType": "@spacex-rocket",
+          "name": "spacex-rocket",
+          "value": "$spacex-rocket",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. The Falcon9 Has A Diameter Of 3.7m12 ft,                                                           \n2.  SpaceX\u0027s Falcon9 weighs about 549,054kg or 1,207,920 lb,                                         3. The Falcon9 has a height of 70m229.6 ft."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527426935,
+  "fallbackIntent": false,
+  "events": []
+}
